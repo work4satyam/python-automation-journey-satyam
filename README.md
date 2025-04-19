@@ -1,5 +1,4 @@
-# python-automation-journey-satyam
-# Satyam's 60-Day Python Automation Roadmap
+# 60-Day Python Automation Roadmap
 
 ## Week 1: Python Basics + GitHub Familiarity
 
