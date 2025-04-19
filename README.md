@@ -3,9 +3,9 @@
 
 ## Week 1: Python Basics + GitHub Familiarity
 
-- [ ] GitHub account + repository setup
-- [ ] Python installation + VS Code setup
-- [ ] Variables and Data Types
+- [ done] GitHub account + repository setup
+- [ done] Python installation + VS Code setup
+- [done ] Variables and Data Types
 - [ ] Input & Output
 - [ ] Conditions (if-else)
 - [ ] Loops (for, while)
