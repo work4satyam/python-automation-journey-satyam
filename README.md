@@ -107,12 +107,70 @@
 
 
 ## Progress Journal 
+## 📘 Progress Journal
 
-| Date       | What I Did                              | GitHub Link |
-|------------|------------------------------------------|-------------|
-| Day 1      | GitHub repo created + Python installed   | [link]      |
-| Day 2      | Variables + Input Output Practice        | [link]      |
-| Day 3      | If-Else + Loops                          | [link]      |
-         
+| Date   | What I Did | GitHub Link | Remarks |
+|--------|------------|-------------|---------|
+| Day 1  |            | [link]()    |         |
+| Day 2  |            | [link]()    |         |
+| Day 3  |            | [link]()    |         |
+| Day 4  |            | [link]()    |         |
+| Day 5  |            | [link]()    |         |
+| Day 6  |            | [link]()    |         |
+| Day 7  |            | [link]()    |         |
+| Day 8  |            | [link]()    |         |
+| Day 9  |            | [link]()    |         |
+| Day 10 |            | [link]()    |         |
+| Day 11 |            | [link]()    |         |
+| Day 12 |            | [link]()    |         |
+| Day 13 |            | [link]()    |         |
+| Day 14 |            | [link]()    |         |
+| Day 15 |            | [link]()    |         |
+| Day 16 |            | [link]()    |         |
+| Day 17 |            | [link]()    |         |
+| Day 18 |            | [link]()    |         |
+| Day 19 |            | [link]()    |         |
+| Day 20 |            | [link]()    |         |
+| Day 21 |            | [link]()    |         |
+| Day 22 |            | [link]()    |         |
+| Day 23 |            | [link]()    |         |
+| Day 24 |            | [link]()    |         |
+| Day 25 |            | [link]()    |         |
+| Day 26 |            | [link]()    |         |
+| Day 27 |            | [link]()    |         |
+| Day 28 |            | [link]()    |         |
+| Day 29 |            | [link]()    |         |
+| Day 30 |            | [link]()    |         |
+| Day 31 |            | [link]()    |         |
+| Day 32 |            | [link]()    |         |
+| Day 33 |            | [link]()    |         |
+| Day 34 |            | [link]()    |         |
+| Day 35 |            | [link]()    |         |
+| Day 36 |            | [link]()    |         |
+| Day 37 |            | [link]()    |         |
+| Day 38 |            | [link]()    |         |
+| Day 39 |            | [link]()    |         |
+| Day 40 |            | [link]()    |         |
+| Day 41 |            | [link]()    |         |
+| Day 42 |            | [link]()    |         |
+| Day 43 |            | [link]()    |         |
+| Day 44 |            | [link]()    |         |
+| Day 45 |            | [link]()    |         |
+| Day 46 |            | [link]()    |         |
+| Day 47 |            | [link]()    |         |
+| Day 48 |            | [link]()    |         |
+| Day 49 |            | [link]()    |         |
+| Day 50 |            | [link]()    |         |
+| Day 51 |            | [link]()    |         |
+| Day 52 |            | [link]()    |         |
+| Day 53 |            | [link]()    |         |
+| Day 54 |            | [link]()    |         |
+| Day 55 |            | [link]()    |         |
+| Day 56 |            | [link]()    |         |
+| Day 57 |            | [link]()    |         |
+| Day 58 |            | [link]()    |         |
+| Day 59 |            | [link]()    |         |
+| Day 60 |            | [link]()    |         |
+
 
 
