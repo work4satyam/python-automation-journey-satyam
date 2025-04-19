@@ -106,7 +106,7 @@
 ---
 
 
-## Progress Journal (Optional)
+## Progress Journal 
 
 | Date       | What I Did                              | GitHub Link |
 |------------|------------------------------------------|-------------|
